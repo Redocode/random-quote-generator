@@ -17,8 +17,7 @@
             $quotes = [
                 "The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt",
                 "In the middle of difficulty lies opportunity. - Albert Einstein",
-                "Do what you can, with what you have, where you are. - Theodore Roosevelt",
-                "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
+                "Do what you can, with what you have, where you are. - Theodore Roosevelt"
                 "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill"
             ];
 
